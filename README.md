@@ -33,6 +33,18 @@ python main.py
 
 
 4. ¡Haz tus elecciones y ve a dónde te llevan!
+
+
+## Formateo del Código 📏
+
+Para asegurar la consistencia y legibilidad del código, será obligatorio formatear cualquier contribución usando [black](https://black.readthedocs.io/) :
+
+```bash
+
+pip install black
+black main.py
+```
+
 ## Contribuciones 🤝
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el juego, añadir más narrativa o solucionar errores, no dudes en hacer un fork y enviar un pull request.
